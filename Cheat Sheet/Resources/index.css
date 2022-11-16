@@ -1,0 +1,30 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: azure;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+table, td {
+    margin: auto;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+.heading2 {
+    background-color:  silver;
+}
+
+.heading1 {
+    background-color: silver;
+}
